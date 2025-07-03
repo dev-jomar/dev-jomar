@@ -63,6 +63,12 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jayknotfound&show_icons=true&theme=tokyonight&title_color=89CFF0&icon_color=89CFF0&text_color=ffffff&bg_color=0d1117" height="165" /> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayknotfound&show_icons=true&theme=tokyonight&title_color=89CFF0&icon_color=89CFF0&text_color=ffffff&bg_color=0d1117" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jayknotfound&label=Profile%20Views&color=89CFF0&style=flat-square" alt="jayknotfound" />
+</p>
 
 ###
